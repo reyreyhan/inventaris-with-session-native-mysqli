@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+kotak {
+	position: absolute;
+	top: 120;
+	left: 480;
+	width: 360;
+	height: 410;
+	background-color: #19242e;
+}
+
+kotak .logo {
+	margin-top: 15;
+	margin-left: 10;
+} 
+
+kotak .form-wrapper .form-group .sete {
+	width: 300;
+	margin-left: 30;
+	margin-top: 15; 
+	margin-bottom: 30;
+}
+
+kotak .form-wrapper .form-group .seteng {
+	width: 300;
+	margin-left: 30;
+}
+
+kotak .form-wrapper .form-group .setengah {
+	width: 300;
+	margin-left: 30;
+	margin-top: 30;
+}
